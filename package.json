@@ -6,6 +6,7 @@
   "description": "Serves your every Slacking whim.",
   "dependencies": {
     "hubot": "^2.11.0",
+    "hubot-business-cat": "^1.1.16",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.3",
     "hubot-google-translate": "^0.1.0",
