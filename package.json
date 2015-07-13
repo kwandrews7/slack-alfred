@@ -1,8 +1,8 @@
 {
     "name": "alfred",
-    "version": "0.0.0",
+    "version": "2.0.0",
     "private": true,
-    "author": "kyle@andrewshotspot.com",
+    "author": "kwandrews7@gmail.com",
     "description": "Serves your every Slacking whim.",
     "dependencies": {
         "hubot": "^2.13.2",
