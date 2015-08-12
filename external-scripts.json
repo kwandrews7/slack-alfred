@@ -6,6 +6,7 @@
   "hubot-fliptable",
   "hubot-google-images",
   "hubot-google-translate",
+  "hubot-hangman",
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-maps",
